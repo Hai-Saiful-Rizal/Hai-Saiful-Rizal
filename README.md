@@ -17,5 +17,6 @@ Halo, nama saya Saiful Rizal.<br>Saya adalah mahasiswa jurusan Teknik Informatik
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hai-Saiful-Rizal&icon=0&color=0)](https://visitcount.itsvg.in)
+![snake gif](https://github.com/Hai-Saiful-Rizal/Hai-Saiful-Rizal/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
