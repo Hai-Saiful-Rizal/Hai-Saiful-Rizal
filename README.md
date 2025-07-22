@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 Halo, nama saya Saiful Rizal.<br>Saya adalah mahasiswa jurusan Teknik Informatika di Politeknik Negeri Jember dengan minat besar pada pengembangan web dan aplikasi mobile. Saya memiliki kepribadian yang positif, dikenal sebagai pribadi yang ramah, bertanggung jawab, kreatif, dan berpikir kritis. Saya senang belajar hal baru dan selalu berusaha memberikan yang terbaik dalam setiap proyek yang saya kerjakan.
 
